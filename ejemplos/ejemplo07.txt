@@ -7,3 +7,5 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+
+//La salida es 3
