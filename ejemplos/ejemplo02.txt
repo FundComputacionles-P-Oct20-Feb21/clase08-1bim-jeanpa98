@@ -5,4 +5,4 @@
 5. Fin si
 6. Fin
 
-// La edad ingresada pertenece a mayor de edad. 
+// La salida es "La edad ingresada pertenece a mayor de edad" 
