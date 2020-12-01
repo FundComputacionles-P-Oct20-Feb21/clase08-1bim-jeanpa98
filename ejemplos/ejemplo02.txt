@@ -4,3 +4,5 @@
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
 5. Fin si
 6. Fin
+
+// La edad ingresada pertenece a mayor de edad. 
