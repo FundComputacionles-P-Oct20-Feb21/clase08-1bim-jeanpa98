@@ -29,3 +29,7 @@
 29. Fin_Dependiendo_De
 30. Escribir "El resultado de la operación " + tipo + "es :" + resultado
 31. Fin
+ 
+//La salida es El resudado de la operacion multiplicacion es: resultado
+//La salida es El resultado de la operacion suma es: resultado
+//La salida es El resultado de la resta es: resultado
