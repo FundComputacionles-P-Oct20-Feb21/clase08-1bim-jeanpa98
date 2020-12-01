@@ -6,4 +6,8 @@
 7.     numero <-- numero +1
 8.  Fin Haga_Hasta (numero <= 1)
 9.  Escribir numero
-9.  Fin
+10.  Fin
+ 
+Pantalla
+// 1
+

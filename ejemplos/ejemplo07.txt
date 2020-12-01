@@ -8,4 +8,6 @@
 10. << n
 11. Fin
 
-//La salida es 3
+//Pantalla
+//2 
+//3
